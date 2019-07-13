@@ -1,0 +1,1 @@
+raspistill -v -o tes1.jpg   ＃capture image from a camera in Raspberry.
