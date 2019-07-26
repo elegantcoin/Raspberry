@@ -1,5 +1,6 @@
 # pyimagesearch
 跟着大牛学习树莓派、深度学习。
+![学习书籍100本详见](https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/README.md)
 <p align="center">
     <a href="https://github.com/elegantcoin/Raspberry"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
