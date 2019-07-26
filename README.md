@@ -1,8 +1,5 @@
 # pyimagesearch
 跟着大牛学习树莓派、深度学习。
-![学习书籍100本详见](https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/111.png)
-
-https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README.md
 
 <p align="center">
     <a href="https://github.com/elegantcoin/Raspberry"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -14,6 +11,10 @@ https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README
     <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 </p>
 <br />
+
+![学习书籍100本详见](https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/111.png)
+
+https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README.md
 
 Remastered-pyimagesearch (© 2019 PyImageSearch)(https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
 
