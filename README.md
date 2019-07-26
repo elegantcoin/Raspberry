@@ -14,7 +14,7 @@
 
 ![学习书籍400余本详见](https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/111.png)
 
-- 详尽的400+本书籍 https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README.md
+- 详尽的 **400多本书籍**  https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README.md
 
 - 树莓派大牛的文章Remastered-pyimagesearch (© 2019 PyImageSearch)(https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
 
