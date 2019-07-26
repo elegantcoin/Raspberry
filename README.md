@@ -11,7 +11,6 @@
 </p>
 <br />
 
-![](https://github.com/elegantcoin/pyimagesearch/blob/master/raspberry.jpg)
 Remastered-pyimagesearch (© 2019 PyImageSearch)(https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
 
 |标题|链接|时间|分类|
@@ -342,3 +341,6 @@ Remastered-pyimagesearch (© 2019 PyImageSearch)(https://www.pyimagesearch.com/2
 |聪明的女孩：计算机视觉和图像搜索引擎使用颜色直方图的指南|https://www.pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/|January 22, 2014|图像描述符|
 |Hobbits和直方图 - 使用Python构建您的第一个图像搜索引擎的操作指南|https://www.pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python/|January 27, 2014|图像搜索引擎，图像描述符，教程的示例|
 |构建图像搜索引擎：定义图像描述符（第1步，共4步）|https://www.pyimagesearch.com/2014/02/03/building-an-image-search-engine-defining-your-image-descriptor-step-1-of-4/|February 3, 2014|图像搜索引擎基础知识|
+
+
+![](https://github.com/elegantcoin/pyimagesearch/blob/master/raspberry.jpg)
