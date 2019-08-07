@@ -155,3 +155,13 @@
 |使用dlib，OpenCV和Python检测眼睛，鼻子，嘴唇和下巴|https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/|April 10, 2017|dlib，Faces，Facial Landmarks，Libraries，Tutorials|
 |使用OpenCV，Python和dlib进行实时面部标志检测|https://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/|April 17, 2017|dlib，Faces，Facial Landmarks，Tutorials|
 |使用OpenCV，Python和dlib进行眨眼检测|https://www.pyimagesearch.com/2017/04/24/eye-bl
+
+## Announcement
+
+本仓库数据的收集行为严格遵守《中华人民共和国网络安全法》及《中华人民共和国刑法》中的相关规定，特此声明以下三点：
+
+1. 本仓库的数据的爬取严格遵守相关政府公开数据网站的“Robots协议”、没有采取任何规避或突破反“爬虫”安防措施的技术手段、没有任何越权的行为；
+
+2. 爬取的数据是公开的、非隐私的、不属于著作权保护范围的信息，数据也仅用于学术目的，本人未从数据中获取任何经济利益；
+
+3. 爬虫的爬取行为未对相关网站的正常运行造成影响。
