@@ -1,4 +1,4 @@
-# pyimagesearch
+# Pyimagesearch
 跟着大牛学习树莓派、深度学习。
 
 <p align="center">
