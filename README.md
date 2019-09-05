@@ -1,5 +1,5 @@
 # Pyimagesearch, Deeplearning, Raspberry and Machinelearningmastery
-跟着大牛学习树莓派、深度学习。
+跟着大牛学习深度学习、机器学习和树莓派。
 
 <p align="center">
     <a href="https://github.com/elegantcoin/Raspberry"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
