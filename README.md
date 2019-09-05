@@ -20,7 +20,10 @@
 ## :fire: 2.pyimagesearch文章
 - 树莓派大牛的文章Remastered-pyimagesearch (© 2019 PyImageSearch)(https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
 
-![](https://github.com/elegantcoin/Raspberry/blob/master/pyimagesearch.png)
+![](https://github.com/elegantcoin/Raspberry/blob/master/pyimagesearch.jpg)
+- 详尽的 **博客文章** https://github.com/elegantcoin/Raspberry/blob/master/Pyimagesearch.md
+
+
 
 ## Announcement
 
