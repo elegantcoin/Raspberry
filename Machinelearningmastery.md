@@ -291,4 +291,3 @@
 |深度学习转移学习的温和介绍|	https://machinelearningmastery.com/applied-machine-learning-is-hard/|	2017/12/22 |	Machine Learning Process|
 |神经网络中爆炸梯度的温和介绍|	https://machinelearningmastery.com/transfer-learning-for-deep-learning/|	2017/12/20 |	Deep Learning for Computer Vision|
 |如何为机器翻译准备法语到英语的数据集|	https://machinelearningmastery.com/exploding-gradients-in-neural-networks/|	2017/12/18 |	Long Short-Term Memory Networks|
-mastery.com/what-is-machine-learning/|	2013/11/17 0:00:00|	Start Machine Learning|
