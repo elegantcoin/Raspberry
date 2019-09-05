@@ -23,6 +23,13 @@
 ![](https://github.com/elegantcoin/Raspberry/blob/master/pyimagesearch.jpg)
 - 详尽的 **博客文章** https://github.com/elegantcoin/Raspberry/blob/master/Pyimagesearch.md
 
+## :fire: 3.Jason Brownlee文章
+- 机器学习大牛的文章(@machinelearningmastery)
+
+![](https://github.com/elegantcoin/Raspberry/blob/master/machinelearning.png)
+- 详尽的 **博客文章** https://github.com/elegantcoin/Raspberry/blob/master/Machinelearningmastery.md
+
+
 
 
 ## Announcement
