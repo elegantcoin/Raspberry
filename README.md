@@ -12,23 +12,23 @@
 </p>
 <br />
 
-## :fire: 1.树莓派书籍
-![学习书籍400余本详见](https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/111.png)
 
-- 详尽的 **400多本书籍**  https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README.md
-
-## :fire: 2.pyimagesearch文章
+## :fire: 1.pyimagesearch文章
 - 树莓派大牛的文章Remastered-pyimagesearch (© 2019 PyImageSearch)(https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
 
 ![](https://github.com/elegantcoin/Raspberry/blob/master/pyimagesearch.jpg)
 - 详尽的 **博客文章** https://github.com/elegantcoin/Raspberry/blob/master/Pyimagesearch.md
 
-## :fire: 3.Jason Brownlee文章
+## :fire: 2.Jason Brownlee文章
 - 机器学习大牛的文章(@machinelearningmastery)
 
 ![](https://github.com/elegantcoin/Raspberry/blob/master/machinelearning.png)
 - 详尽的 **博客文章** https://github.com/elegantcoin/Raspberry/blob/master/Machinelearningmastery.md
 
+## :fire: 3.树莓派书籍
+![学习书籍400余本详见](https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/111.png)
+
+- 详尽的 **400多本书籍**  https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README.md
 
 
 
