@@ -30,6 +30,8 @@
 
 - 详尽的 **400多本书籍**  https://github.com/elegantcoin/Raspberry/blob/master/%E5%9B%BE%E7%89%87/00README.md
 
+- 很好的 **树莓派汇总资料** https://github.com/thibmaek/awesome-raspberry-pi
+
 
 
 ## Announcement
